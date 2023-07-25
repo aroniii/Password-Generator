@@ -1,0 +1,1 @@
+https://generatorofpaswords.netlify.app/
